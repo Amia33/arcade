@@ -1,0 +1,70 @@
+{
+  "id": "8",
+  "title": "True Love Song",
+  "type": "SD",
+  "ds": [
+    5,
+    7.2,
+    10.2,
+    12.4
+  ],
+  "level": [
+    "5",
+    "7",
+    "10",
+    "12"
+  ],
+  "cids": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "charts": [
+    {
+      "notes": [
+        63,
+        23,
+        8,
+        2
+      ],
+      "charter": "-"
+    },
+    {
+      "notes": [
+        85,
+        27,
+        6,
+        4
+      ],
+      "charter": "-"
+    },
+    {
+      "notes": [
+        110,
+        56,
+        9,
+        2
+      ],
+      "charter": "譜面-100号"
+    },
+    {
+      "notes": [
+        263,
+        14,
+        19,
+        6
+      ],
+      "charter": "ニャイン"
+    }
+  ],
+  "basic_info": {
+    "title": "True Love Song",
+    "artist": "Kai/クラシック「G線上のアリア」",
+    "genre": "舞萌",
+    "bpm": 150,
+    "release_date": "",
+    "from": "maimai",
+    "is_new": false
+  }
+}

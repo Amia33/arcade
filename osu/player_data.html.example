@@ -1,0 +1,54 @@
+<div class="beatmap-playcount">
+  <a
+    class="beatmap-playcount__cover"
+    href="https://osu.ppy.sh/beatmapsets/443751#osu/953586"
+    ><div
+      class="beatmapset-cover beatmapset-cover--full"
+      style="
+        --bg: url('https://assets.ppy.sh/beatmaps/443751/covers/list.jpg?1650639287');
+        --bg-2x: url('https://assets.ppy.sh/beatmaps/443751/covers/list@2x.jpg?1650639287');
+      "
+    ></div>
+    <div class="beatmap-playcount__cover-count">
+      <div class="beatmap-playcount__count" title="游玩次数">
+        <span class="beatmap-playcount__count-icon"
+          ><span class="fas fa-play"></span></span
+        >254
+      </div>
+    </div></a
+  >
+  <div class="beatmap-playcount__detail">
+    <div class="beatmap-playcount__info">
+      <div class="beatmap-playcount__info-row u-ellipsis-overflow">
+        <a
+          class="beatmap-playcount__title"
+          href="https://osu.ppy.sh/beatmapsets/443751#osu/953586"
+          >新作のしあわせはこちら! [Happy~!]
+          <span class="beatmap-playcount__title-artist"
+            >by チノ(CV.水瀬いのり)</span
+          ></a
+        >
+      </div>
+      <div class="beatmap-playcount__info-row u-ellipsis-overflow">
+        <span class="beatmap-playcount__artist"
+          >by <strong>チノ(CV.水瀬いのり)</strong></span
+        >
+        <span class="beatmap-playcount__mapper"
+          >谱师：<a
+            class="js-usercard beatmap-playcount__mapper-link"
+            data-user-id="899031"
+            href="https://osu.ppy.sh/users/899031"
+            >Lami</a
+          ></span
+        >
+      </div>
+    </div>
+    <div class="beatmap-playcount__detail-count">
+      <div class="beatmap-playcount__count" title="游玩次数">
+        <span class="beatmap-playcount__count-icon"
+          ><span class="fas fa-play"></span></span
+        >254
+      </div>
+    </div>
+  </div>
+</div>
