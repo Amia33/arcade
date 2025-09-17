@@ -1,0 +1,27 @@
+name: CodeQL Advanced
+on:
+  push:
+    branches: ["master"]
+  schedule:
+    - cron: "42 20 * * *"
+jobs:
+  analyze:
+    name: Analyze
+    runs-on: ubuntu-latest
+    permissions:
+      security-events: write
+      packages: read
+    strategy:
+      fail-fast: false
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Initialize
+        uses: github/codeql-action/init@v3
+        with:
+          languages: python
+          build-mode: none
+      - name: Analysis
+        uses: github/codeql-action/analyze@v3
+        with:
+          category: "/language:python"
